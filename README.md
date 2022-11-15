@@ -1,2 +1,2 @@
 # product-preview-card
-project created and finished
+the project has the purpose of presenting a product visualization card
